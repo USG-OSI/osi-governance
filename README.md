@@ -33,7 +33,7 @@ Projects are built in public and maintained collectively.
 
 ## 📂 Documents
 
-- [`PARTICIPATION_AGREEMENT.md`](./PARTICIPATION_AGREEMENT.md)
+- [Participation & Project Agreement](./Participation%20%26%20Project%20Agreement.docx)
 
 Additional governance documents may be added as the initiative grows.
 
